@@ -83,6 +83,10 @@ You can download the game from the following Google Drive link:
 
 *Note: Ensure you have sufficient storage space and a stable internet connection while downloading the game.*
 
+You can access build files of the game from the following Google Drive link:  
+[**Download WONDER QUEST**](https://drive.google.com/drive/folders/1BTaPDEdLvFLg3rJnBCqLPqsL_VJh1pEv?usp=sharing)
+
+
 ---
 
 ## 8. Known Issues <a name="known-issues"></a>  
