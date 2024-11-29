@@ -44,7 +44,7 @@ Whether you're a casual gamer or a platforming pro, this game offers a fun and c
 | Move Right      | Right Arrow          |  
 | Jump            | Spacebar             |  
 | Attack          | F                    |  
-| Pause           | Esc                  |  
+| Pause           | P                  |  
 
 ---
 
