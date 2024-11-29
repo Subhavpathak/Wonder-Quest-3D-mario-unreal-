@@ -103,12 +103,12 @@ You can download the game from the following Google Drive link:
 ## 10. Credits <a name="credits"></a>  
 
 **Development Team:**  
-- **Subhav Kumar (Reg No: CS23B1071)** – Game Design & Input Handling  
-- **Shivam Yadav (Reg No: CS23B1065)** – Graphics & UI Development  
-- **Kumar Samrat (Reg No: CS23B1038)** – Enemy AI & Level Design  
-- **Sonu Anand (Reg No: CS23B1069)** – Enemy AI & Level Design  
-- **Anurag Kumar Singh (Reg No: CS23B1010)** – Enemy AI & Level Design  
-- **Ashwath Bajaj (Reg No: AD23B1008)** – Enemy AI & Level Design  
+- **Subhav Kumar (Reg No: CS23B1071)**  
+- **Shivam Yadav (Reg No: CS23B1065)**  
+- **Kumar Samrat (Reg No: CS23B1038)** 
+- **Sonu Anand (Reg No: CS23B1069)**  
+- **Anurag Kumar Singh (Reg No: CS23B1010)**   
+- **Ashwath Bajaj (Reg No: AD23B1008)**  
 
 **Special Thanks To:**  
 - Aditya Gupta (CSE 2022 Batch)
